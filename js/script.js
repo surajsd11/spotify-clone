@@ -106,7 +106,7 @@ const playMusic = (track) => {
 async function main() {
 
   //get the list of all the songs
-  await getSongs("songs");
+  await getSongs("songs/ncs");
    
 
   // //Display all the albums on the page
